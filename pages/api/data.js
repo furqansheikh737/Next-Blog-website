@@ -122,6 +122,36 @@ export default{
                 designation:"CEO and Founder"
             }   
         },
+        {
+            id:5,
+            title:"Ratatouille Recipe: Celebrating Summer’s Freshest Flavors",
+            category:"Diet Recipes",
+            img:"/Images/img03.png",
+            description:`August is all about tomatoes, and our summer ratatouille recipe is a tasty way to celebrate this sweet, ripe, juicy, fragrant fruit. Ratatouille is not only fun to say but also fun to make. Fresh, in-season tomatoes are critical to this anticancer, gut-supporting, and heart-healthy one-pot dish. The tomatoes are grated or pulsed in a food processor and then cooked with olive oil, onions, garlic, and herbs to create an irresistible cooking base for the other summer vegetables: eggplant, zucchini, summer squash, and bell peppers.
+
+            We recommend making a big batch since leftovers can be used to transform into various other meals. Serve on its own as a satisfying vegetarian main entrée or over grains or pasta (we love it over egg noodles), alongside fish or tofu, folded into an omelet, topped on toasted bread for a savory snack, or blended with yogurt or beans for a flavor-packed dip. Try alongside our herb-based salmon!`,
+            published:"-Feb 23, 2023",
+            author:{
+                name:"Ananda Kaplan",
+                img:"/Images/author01.png",
+                designation:"CEO and Founder"
+            }   
+        },
+        {
+            id:6,
+            title:"Ratatouille Recipe: Celebrating Summer’s Freshest Flavors",
+            category:"Diet Recipes",
+            img:"/Images/img03.png",
+            description:`August is all about tomatoes, and our summer ratatouille recipe is a tasty way to celebrate this sweet, ripe, juicy, fragrant fruit. Ratatouille is not only fun to say but also fun to make. Fresh, in-season tomatoes are critical to this anticancer, gut-supporting, and heart-healthy one-pot dish. The tomatoes are grated or pulsed in a food processor and then cooked with olive oil, onions, garlic, and herbs to create an irresistible cooking base for the other summer vegetables: eggplant, zucchini, summer squash, and bell peppers.
+
+            We recommend making a big batch since leftovers can be used to transform into various other meals. Serve on its own as a satisfying vegetarian main entrée or over grains or pasta (we love it over egg noodles), alongside fish or tofu, folded into an omelet, topped on toasted bread for a savory snack, or blended with yogurt or beans for a flavor-packed dip. Try alongside our herb-based salmon!`,
+            published:"-Feb 23, 2023",
+            author:{
+                name:"Ananda Kaplan",
+                img:"/Images/author01.png",
+                designation:"CEO and Founder"
+            }   
+        },
     ],
     Popular:[
         {
